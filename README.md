@@ -20,9 +20,9 @@ public class BerkAydin extends JavaDeveloper {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=HeliosAy&theme=transparent&hide_border=true&locale=tr)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HeliosAy&theme=transparent&show_icons=true&hide_border=true&layout=compact&locale=tr)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeliosAy&theme=default&show_icons=true&hide_border=true&count_private=true&locale=tr)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=HeliosAy&theme=github_light&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=HeliosAy&theme=github_light&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+
 </div>
 
 ---
